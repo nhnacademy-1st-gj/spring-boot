@@ -1,0 +1,19 @@
+
+GET http://localhost:8088/accounts
+
+
+###
+GET http://localhost:8088/accounts/2
+
+
+###
+POST http://localhost:8088/accounts
+Content-Type: application/json
+
+{
+  "number": "123",
+  "balance": "-1"
+}
+
+###
+DELETE http://localhost:8088/accounts/12
