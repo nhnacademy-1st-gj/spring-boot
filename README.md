@@ -1,4 +1,4 @@
-# What I learned in the Spring Boot class
+# What I learned in Spring Boot class
 - Simple Rest Application Development
 - Initialize and Run Spring Boot Project
 - Simple Web Application Development
